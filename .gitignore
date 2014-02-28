@@ -4,3 +4,13 @@
 *.jar
 *.war
 *.ear
+
+
+# Maven
+target
+
+# Intellij Idea
+.idea
+*.iml
+*.iws
+*.ipr
